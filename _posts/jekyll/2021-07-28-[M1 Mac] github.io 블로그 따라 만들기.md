@@ -1,6 +1,21 @@
-# 드디어 GitHub Blog를 만들었다!
+---
+title: "[M1 Mac] github.io 블로그 따라 만들기"
+
+tags: 
+    - GitHub
+    - 깃허브 블로그
+    - Jekyll
+    - M1
+    - 맥
+---
+
+
 말로만 계획했던 GitHub Blog를 만들었습니다!!  
+
+
 M1을 탑재한 MacBook Air로 공부를 주로 할 겸, 맥북으로 github.io를 새로 만들었는데,  
+
+
 생각보다 과정이 험난해 설치 과정을 다루며 GitHub Blog를 만드는 법을 작성하겠습니다.
 
 ##### 1. Homebrew
@@ -52,6 +67,8 @@ rbenv versions
 vim ~/.zshrc
 ```
 파일을 열어주면 파일의 마지막 부분에 다음 코드를 복붙해주세요.  
+
+
 참고로 vi 편집기에서 입력을 하려면 i를 누르시고(커서 위치부터 입력), 입력 후 ESC를 누르고 :wq를 입력해주세요.
 ```
   [[ -d ~/.rbenv  ]] && \
@@ -76,6 +93,8 @@ bundler -v
 jekyll -v
 ```
 버전이 잘 뜬다면 잘 설치가 된 것입니다!  
+
+
 설치가 다 되었으니 GitHub에서 블로그를 직접 만들어봅시다!
 
 

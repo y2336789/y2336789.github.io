@@ -1,4 +1,15 @@
-이번에는 GitHub에서 블로그로 쓸 Repository를 만들어야한다.
+---
+title: "[M1 Mac] github.io 블로그 따라 만들기_(1)"
+
+tags: 
+    - GitHub
+    - 깃허브 블로그
+    - Jekyll
+    - M1
+    - 맥
+---
+
+이번에는 GitHub에서 블로그로 쓸 Repository를 만들어야 합니다.
 
 ##### 1. 새 Repository 만들기
 ---
