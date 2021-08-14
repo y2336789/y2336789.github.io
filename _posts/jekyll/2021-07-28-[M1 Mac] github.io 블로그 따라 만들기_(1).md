@@ -1,6 +1,9 @@
 ---
 title: "[M1 Mac] github.io 블로그 따라 만들기_(1)"
 
+categories:
+    - Github Blog
+
 tags: 
     - GitHub
     - 깃허브 블로그
